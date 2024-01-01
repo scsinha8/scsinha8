@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Subhash
+- Software engineer based in London
+- Develop mostly in .Net
+- Learning to build AI models using Tensorflow
